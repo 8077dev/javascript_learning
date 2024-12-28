@@ -1,0 +1,11 @@
+/*
+number
+bigint
+string
+null
+boolean
+undefined
+symbol
+object 
+
+*/
